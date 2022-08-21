@@ -23,7 +23,7 @@ img {
 }
 
 body {
-    background-color: red;
+    background-color: var(--clr-light-grey);
 }
 
 .qr {
